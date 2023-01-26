@@ -1,0 +1,7 @@
+kat_kod	kat_nev
+4	Édesség
+1	Húsáru
+3	Tejtermék
+5	Tészták
+6	Üditõitalok
+2	Zöldség

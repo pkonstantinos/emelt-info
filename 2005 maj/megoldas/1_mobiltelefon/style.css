@@ -1,0 +1,15 @@
+body {
+    background: url(./hatter.gif);
+    color: maroon;
+}
+
+
+.tabla{
+    width: 90%;
+    outline: solid 1px black;
+    border-color: black;
+    margin: 0 auto;
+}
+.bal {
+}
+

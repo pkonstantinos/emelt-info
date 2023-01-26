@@ -1,0 +1,47 @@
+aru_kod	kat_kod	nev	egyseg	ar
+31	6	Almalé	liter	269
+30	6	Ásványvíz	liter	119
+10	1	Bánáti kolbász	kg	549
+13	1	Baromfi párizsi	kg	209
+36	4	Boci csoki	darab	142
+2	3	Camembert	doboz	239
+44	5	Cérnametélt	kg	332
+43	5	Csigatészta	kg	320
+42	5	Durillo tészta	kg	238
+8	3	Eidami sajt	doboz	1222
+15	1	Erdélyi szalonna	kg	599
+16	1	Farmer felvágott	kg	579
+41	5	Füri tészta	kg	179
+12	1	Füstölt-fõtt pulyka alsócomb	kg	629
+11	1	Füstölt-fõtt pulykamell sonka	kg	1199
+35	4	Gabonapehely szelet	darab	52
+29	6	Ice Tea	doboz	229
+46	1	Paprikás szalámi	kg	2899
+33	6	Kajszilé	liter	269
+25	2	Karfiol	kg	168
+37	4	Konyakos meggy	darab	712
+40	5	Korona tészta	kg	290
+39	5	La Pasta 4 tojásos tészta	kg	230
+19	1	Marha darálthús	kg	899
+23	1	Marha párizsi	kg	899
+7	3	Medve sajt	doboz	209
+32	6	Õszilé	liter	269
+28	2	Paradicsom	kg	239
+34	4	Piros mogyorós	darab	155
+4	3	Pötyös Túró Rudi	darab	42
+21	1	Sertés darálthús	kg	539
+18	1	Sertés hátsó csülök	kg	559
+20	1	Sertéslapocka	kg	739
+22	1	Sertéstarja csont nélkül	kg	1099
+17	1	Sertéscomb csont nélkül	kg	829
+5	3	Sovány tej	liter	145
+38	4	Sportszelet	darab	82
+24	2	Sütõtök	kg	49
+45	5	Szélesmetélt	kg	230
+14	1	Szeletelt bacon	kg	1490
+1	3	Tejföl 20%-os	doboz	175
+3	3	Tejszínhab-spray	liter	676
+27	2	Téli alma	kg	199
+9	1	Téliszalámi	kg	2899
+26	2	Zöldborsó	doboz	489
+6	3	Zsíros tej	liter	169
