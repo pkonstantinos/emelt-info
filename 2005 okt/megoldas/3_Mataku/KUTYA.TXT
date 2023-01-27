@@ -1,0 +1,133 @@
+Sor	Fajta	Nem	Kor	Neve
+1	airedale terrier 	szuka	12,0	Akela
+2	airedale terrier 	kan	1,5	Tódor
+3	airedale terrier 		6,0	Pamacs
+4	airedale terrier 	szuka	1,5	Moki
+5	akita			Tapi
+6	akita	kan	0,6	Tüske
+7	akita	kan	8,0	Brúnó
+8	akita keverék	szuka	0,6	Dorka
+9	angol buldog	szuka	6,0	Gina
+10	angol buldog	kan	2,0	Nons
+11	angol buldog	kan		Bogár
+12	angol buldog	szuka		Csipisz
+13	angol szetter	szuka		Marcipán
+14	angol szetter	kan		Picasso
+15	angol véreb		0,8	Dolly
+16	argentin dog 		0,2	Cindy
+17	argentin dog 	kan		Plútó
+18	argentin dog 	kan	0,5	Vili
+19	argentín dog staffordshire terrier keverék	kan	0,7	Geri
+20	argentín dog staffordshire terrier keverék	kan	0,8	Pamacs
+21	basset hound 	kan		Néró
+22	basset hound 	szuka	1,0	Bella
+23	basset hound 	szuka	0,4	Nelli
+24	beagle	kan		Brúnó
+25	beagle	szuka	3,0	Sziszi
+26	beagle	szuka	1,5	Tódi
+27	beagle	kan	0,5	Hops
+28	beagle	kan	0,5	Vándor
+29	beagle		0,1	Maci
+30	beagle	szuka	0,5	Lilla
+31	beagle	kan	8,5	Brutus
+32	beagle	szuka		Pötyi
+33	beagle			Zsebi
+34	beagle			Cipi
+35	beagle	kan	0,7	Herceg
+36	beagle	kan	0,8	Marci
+37	beagle	szuka	0,7	Fáni
+38	beagle	szuka	0,8	Dorka
+39	beagle	szuka	0,8	Topi
+40	bearded collie		11,0	Bodza
+41	bearded collie 	kan	8,0	Boglya
+42	belga juhász 	kan	0,8	Bogyó
+43	belga juhász 	szuka	1,5	Bubu
+44	belga juhász 	kan		Pözsó
+45	belga juhász keverék	kan	0,9	Fickó
+46	belga juhász keverék	szuka	10,0	Piri
+47	belga juhász keverék	kan	3,0	Rocky
+48	bernáthegyi			Rocky
+49	bernáthegyi	kan	5,0	Aladár
+50	bernáthegyi keverék		0,1	Viktória
+51	berni pásztor	szuka	5,0	Dini
+52	berni pásztor	szuka	0,9	Fáni
+53	berni pásztor	kan	1,0	Rocky
+54	berni pásztor	szuka	0,5	Dorka
+55	berni pásztor	kan	2,0	Dani
+56	berni pásztor	kan	8,0	Bokszos
+57	berni pásztor	szuka	3,0	Bogyó
+58	berni pásztor	szuka		Nelli
+59	berni pásztor	kan	5,0	Johny
+60	berni pásztor	szuka	2,0	Ági
+61	berni pásztor skótjuhász keverék 	szuka		Fáni
+62	boxer	szuka	2,0	Fanni
+63	boxer	kan	2,0	Artúr
+64	boxer		0,5	Albert
+65	boxer	szuka	3,0	Bátor
+66	boxer	kan	4,0	Chester
+67	boxer		8,0	Fanni
+68	boxer			Franny
+69	boxer	kan	5,0	Marci
+70	boxer keverék 	kan		Maszat
+71	bullterrier	szuka	0,9	Süti
+72	briard	kan		Soma
+73	cavalier spániel	szuka		Bogyó
+74	cocker spániel			Buffy
+75	cocker spániel	kan	2,0	Cottó
+76	cocker spániel	szuka	0,5	Izidor
+77	cocker spániel	szuka	14,0	Fáncsi
+78	cocker spániel	szuka		Fanni
+79	cocker spániel	szuka	9,0	Olívia
+80	cocker spániel	kan	8,0	Fred
+81	cocker spániel	kan	5,0	Matyi
+82	cocker spániel	szuka	4,0	Luna
+83	cocker spániel	szuka	3,0	Bogáncs
+84	cocker spániel	szuka	2,0	Boci
+85	cocker spániel	szuka	6,0	Rekoba
+86	cocker spániel-uszkár keverék			Bogáncs
+87	collie	szuka	5,0	Süti
+88	collie	szuka	4,0	Csutak
+89	collie	szuka	1,5	Gina
+90	collie	szuka	2,0	Léna
+91	collie	szuka		Lilla
+92	collie keverék	kan	1,0	Dodó
+93	Csau-csau		0,1	Brúnó
+94	csau-csau keverék	szuka	4,0	Szõrmók
+95	csivava-tacskó keverék	szuka	8,0	Léna
+96	csivava yorkshire terrier keverék		1,0	Dönci
+97	csivava	szuka	0,3	Kati
+98	dalmata	szuka	8,0	Bagó
+99	dalmata	kan	6,0	Csoma
+100	doberman	szuka	5,0	Szandra
+101	doberman	kan	2,0	Jimmy
+102	erdélyi kopó tacskó keverék	kan	4,0	Krõte
+103	erdélyi kopó	szuka	3,0	Kajak
+104	erdélyi kopó	kan	5,0	Ugri
+105	fila	kan	7,0	Tockos
+106	foxterrier	szuka	0,8	Bogár
+107	foxterrier	szuka	0,5	Hádész
+108	foxterrier	kan	6,0	Roxi
+109	foxterrier	szuka	0,2	Mókus
+110	foxterrier keverék			Fillér
+111	foxterrier és palotakutya keverék	kan	0,6	Kanóc
+112	foxterrier keverék	szuka	2,0	Bogi	
+113	francia buldog	kan	1,0	Buck	
+114	francia buldog		1,0	Berci	
+115	golden retriever	kan		Picúr	
+116	golden retriever	kan	0,3	Topi	
+117	golden retriever	szuka	0,6	Zsömi	
+118	golden retriever	szuka	8,0	Leila	
+119	golden retriever	szuka	5,0	Mackó	
+120	golden retriever	kan	5,0	Artúr	
+121	golden retriever	kan	0,6	Bobi	
+122	golden retriever	szuka	4,0	Zsömi	
+123	golden retriever	szuka	4,0	Csuvi	
+124	golden retriever	kan	1,0	Picúr	
+125	golden retriever	szuka	0,5	Csuvi	
+126	golden retriever	szuka	5,5	Betyár	
+127	golden retriever			Alex	
+128	golden retriever			Pici
+129	golden retriever	kan	0,3	Csipke
+130	golden retriever	szuka	1,5	Buksi
+131	golden retriever	szuka	3,5	Csibi
+132	golden vizsla keverék	kan	0,9	Morgó

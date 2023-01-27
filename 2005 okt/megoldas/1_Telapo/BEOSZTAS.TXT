@@ -1,0 +1,8 @@
+"név";"nap"
+"Krampusz Kálmán";"hétfõn"
+"Krampusz Ilona";"kedden"
+"Krampussz Antal";"szerdán"
+"Krampusz Tamás";"csütörtökön"
+"Krampusz Tamara";"pénteken"
+"Krampuszt Ulrik";"szombaton"
+"Krampuszt Attila";"vasárnap"

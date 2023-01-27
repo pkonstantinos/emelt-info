@@ -1,0 +1,133 @@
+Sor	Hely	Mikor
+1	Gyöngyössomlyó	2005.04.06
+2	Esztergom-Kertváros	2005.03.16
+3	Szentendre	2005.02.19
+4	III. kerület	2004.11.03
+5	Szentendre	2004.12.27
+6	XVI. kerület	2004.09.23
+7	XXII. kerület	2004.09.11
+8	Pilisszántó	2004.10.07
+9	Pilis	2005.04.10
+10	Budakeszi 	2005.03.30
+11	XVII. kerület	2005.03.11
+12	Eger	2005.01.12
+13	II/a. kerület	2005.02.11
+14	XIV. kerület	2005.01.27
+15	XIII. kerület	2004.12.12
+16	Pest megye	2005.01.08
+17	Biatorbágy	2004.12.13
+18	Csepel	2004.07.31
+19	XVI. kerület	2004.12.31
+20	X. kerület	2004.12.28
+21	Pilisborosjenõ	2005.03.21
+22	XXII. kerület	2005.02.24
+23	Vértesszõlõs	2005.01.10
+24	XXII. kerület	2005.03.29
+25	Salgótarján	2005.03.10
+26	III. kerület	2005.03.02
+27	Horány-Szigetmonostor	2005.03.02
+28	Szõd	2005.02.19
+29	Süttõ	2005.02.13
+30	Maglód	2005.02.11
+31	VII. kerület	2004.12.11
+32	Solymár	2004.11.25
+33	XV. kerület	2004.11.15
+34	Göd	2004.11.01
+35	Solymár	2004.10.25
+36	XVI. kerület	2004.10.24
+37	Szekszárd	2004.10.02
+38	XIX. kerület	2004.09.22
+39	Szentendre	2004.09.09
+40	Telki	2004.12.31
+41	XXIII. kerület	2004.12.24
+42	V. kerület	2005.04.12
+43	Pomáz	2005.02.18
+44	Budaörs	2004.10.26
+45	Fejér megye	2005.01.21
+46	Mogyoród	2004.12.31
+47	Kistarcsa	2004.11.16
+48	XI. kerület	2005.02.17
+49	Csepel	2005.01.05
+50	XVI. kerület	2005.02.18
+51	Törökbálint	2005.04.23
+52	Székesfehérvár	2005.02.19
+53	XXI. kerület	2005.02.15
+54	Pusztazámor	2005.02.02
+55	XI. kerület	2005.01.02
+56	Üröm 	2004.12.31
+57	Szigetszentmiklós	2004.12.07
+58	XXII. kerület	2004.11.11
+59	Pilisborosjenõ	2004.09.02
+60	Gyulafirátót	2004.08.31
+61	Mezõkövesd	2004.12.30
+62	III. kerület	2005.04.25
+63	Lupa	2005.03.24
+64	Dunakeszi	2005.02.28
+65	Eger	2005.02.28
+66	XVII. kerület	2005.02.24
+67	XX. kerület	2005.01.12
+68	XXI. kerület	2005.01.02
+69	XVIII.ker	2004.07.13
+70	Budaörs	2004.12.15
+71	VIII. kerület	2005.01.12
+72	XVIII. kerület	2004.10.03
+73	IV. kerület	2005.02.14
+74	XXII. kerület	2005.04.20
+75	XIV. kerület	2005.04.14
+76	Jászszentandrás	2005.03.27
+77	XVIII. kerület	2005.03.19
+78	Gyál	2005.02.21
+79	Göd	2005.02.12
+80	Öttevény	2004.12.31
+81	Maglód	2004.12.16
+82	Pilisszentlászló	2004.12.10
+83	Szentendre	2004.11.11
+84	II. kerület	2004.11.08
+85	XI. kerület	2004.10.09
+86	XX. kerület	2004.03.01
+87	X. kerület	2005.04.18
+88	V. kerület	2005.04.08
+89	Miskolc	2005.01.29
+90	Esztergom-Kertváros 	2005.01.12
+91	XI. kerület	2005.01.03
+92	XX. kerület	2005.03.11
+93	XII. kerület	2005.03.30
+94	XII. kerület	2005.02.08
+95	XI. kerület	2005.04.06
+96	Budaörs	2005.02.02
+97	XII. kerület	2004.11.18
+98	Szentlõrinc	2005.02.27
+99	XV. kerület	2004.10.15
+100	Hegyhátszentjakab	2004.11.29
+101	Pilisszántó	2004.10.27
+102	XV. kerület	2004.12.01
+103	Szendehely	2004.12.25
+104	Mende	2004.12.17
+105	XV. kerület	2005.03.28
+106	XIII. kerület	2005.03.10
+107	XVI. kerület	2005.03.06
+108	Vecsés	2005.01.14
+109	Budaliget	2004.11.09
+110	XX. kerület	2005.02.26
+111	Miskolc	2005.01.25
+112	Hajógyári sziget	2004.08.20
+113	XVIII. kerület	2005.04.05
+114	XI. kerület	2004.09.06
+115	Tata	2005.03.12
+116	XVI. kerület	2005.02.15
+117	Érdliget	2005.01.03
+118	XXI. kerület	2004.12.31
+119	Balmazújváros	2004.12.25
+120	Hajdúszoboszló	2004.12.24
+121	XII. kerület	2004.12.20
+122	XI. kerület	2004.12.09
+123	XII. kerület	2004.12.03
+124	XVI. kerület	2004.11.18
+125	II. kerület	2004.11.08
+126	XII. kerület	2004.09.09
+127	Szentes	2004.09.08
+128	XV. kerület	2004.08.28
+129	Páty	2004.08.26
+130	XIII. kerület	2004.08.23
+131	Szentendrei sziget	2004.07.11
+132	XI. kerület	2004.12.11
